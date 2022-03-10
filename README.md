@@ -13,20 +13,20 @@ This repository contains folders of my completed projects from the Data Analyst 
 **Overview of Project Portfolio**
 
 Data Analyst Program:
-1.  Data Preprocessing
-2.  Exploratory Data Analysis (EDA)
-3.  Statistical Data Analysis
-4.  Integrated Project 1:
-5.  Data Collection and Storage (SQL)
-6.  Business Analytics
-7.  Making Business Decisions Based on Data
-8.  How to Tell a Story using Data
-9.  Integrated Project 2:
-10.  Automation
-11.  Forecasts and Predictions
-12.  Final Project: A/B Testing Task
-13.  Final Project: SQL Task
-14.  Final Project: E-commerce
+1.  Data Preprocessing Module: Credit Scoring Project
+2.  Exploratory Data Analysis (EDA) Module:
+3.  Statistical Data Analysis Module
+4.  Integrated Project 1 Module:
+5.  Data Collection and Storage (SQL) Module:
+6.  Business Analytics Module:
+7.  Making Business Decisions Based on Data Module:
+8.  How to Tell a Story using Data Module:
+9.  Integrated Project 2 Module:
+10.  Automation Module:
+11.  Forecasts and Predictions Module:
+12.  Final Project Module: Task on A/B Testing
+14.  Final Project Module: SQL Task
+15.  Final Project Module: E-commerce
 
 
 --Data Scientist Program--
