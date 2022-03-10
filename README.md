@@ -6,7 +6,7 @@ This repository contains folders of my completed projects from the Data Analyst 
 - Portfolio of X industry-level projects,
 - Real-world data and business cases.
 
-**Course Links**
+**Bootcamp Links**
 - https://www.practicum100.com/
 - https://practicum.yandex.com/
 
