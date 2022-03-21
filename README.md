@@ -3,7 +3,7 @@ Practicum by Yandex is an online bootcamp involving both course and project work
 This repository contains folders of my completed projects from the Data Analyst and Data Scientist bootcamps.
 
 **Project Highlights**
-- Portfolio of X industry-level projects,
+- Portfolio of 12 industry-level projects,
 - Real-world data and business cases.
 
 **Bootcamp Links**
